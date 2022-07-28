@@ -1,0 +1,31 @@
+"fullname","make_playoffs","winfirst","winsecond","confodds","champodds"
+"Atlanta Hawks",0.797,0.444,0.25,0.116,0.055
+"Boston Celtics",0.699,0.331,0.142,0.072,0.036
+"Brooklyn Nets",0.732,0.335,0.154,0.081,0.042
+"Charlotte Hornets",0.516,0.22,0.095,0.046,0.028
+"Chicago Bulls",0.715,0.348,0.166,0.084,0.045
+"Cleveland Cavaliers",0.136,0.054,0.026,0.01,0.003
+"Dallas Mavericks",0.731,0.387,0.188,0.107,0.055
+"Denver Nuggets",0.584,0.265,0.125,0.056,0.023
+"Detroit Pistons",0.063,0.025,0.014,0.008,0.002
+"Golden State Warriors",0.504,0.219,0.106,0.053,0.022
+"Houston Rockets",0.084,0.032,0.014,0.006,0.003
+"Indiana Pacers",0.651,0.313,0.163,0.077,0.038
+"Los Angeles Clippers",0.582,0.295,0.151,0.077,0.035
+"Los Angeles Lakers",0.665,0.33,0.166,0.094,0.046
+"Memphis Grizzlies",0.647,0.324,0.152,0.079,0.036
+"Miami Heat",0.519,0.231,0.102,0.045,0.023
+"Milwaukee Bucks",0.903,0.565,0.324,0.162,0.094
+"Minnesota Timberwolves",0.206,0.077,0.032,0.016,0.008
+"New Orleans Pelicans",0.692,0.355,0.175,0.072,0.037
+"New York Knicks",0.686,0.361,0.169,0.086,0.049
+"Oklahoma City Thunder",0.056,0.021,0.013,0.007,0.001
+"Orlando Magic",0.021,0.007,0.004,0.002,0.001
+"Philadelphia 76ers",0.875,0.505,0.275,0.161,0.086
+"Phoenix Suns",0.75,0.411,0.214,0.107,0.042
+"Portland Trail Blazers",0.722,0.368,0.191,0.095,0.044
+"Sacramento Kings",0.354,0.13,0.066,0.034,0.014
+"San Antonio Spurs",0.567,0.272,0.125,0.052,0.029
+"Toronto Raptors",0.318,0.112,0.047,0.022,0.008
+"Utah Jazz",0.856,0.514,0.282,0.145,0.079
+"Washington Wizards",0.369,0.149,0.069,0.028,0.016

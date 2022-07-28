@@ -1,0 +1,7 @@
+"","x"
+"1","C:\PROGRA~1\R\R-3.5.1\bin\x64\Rterm.exe"
+"2","--slave"
+"3","--no-restore"
+"4","--vanilla"
+"5","--sims=10000"
+"6","--file=C:\Users\Nathan\nba\nba\season_simulations.R"

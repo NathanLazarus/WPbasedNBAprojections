@@ -1,0 +1,1 @@
+require(["managers/images"],function(s){s.swapLazyImages(100);$(window).scroll(function(){var a=$(this).scrollTop();if(a%2!==0){return false}s.swapLazyImages(60)})});

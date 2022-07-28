@@ -1,0 +1,24 @@
+StataFileTM:00001:01100:GREC:                          :
+00004:00004:00001:
+*! classname: twowaygraph_g
+*! family: twoway
+*! date: 17 Oct 2018
+*! time: 22:20:01
+*! graph_scheme: uncluttered
+*! naturallywhite: 1
+*! end
+
+// File created by Graph Editor Recorder.
+// Edit only if you know what you are doing.
+
+.AddTextBox added_text editor 2.307634904739842 23.83004661054043
+.added_text_new = 3
+.added_text_rec = 3
+.added_text[3].style.editstyle  angle(default) size(medsmall) color(black) horizontal(left) vertical(middle) margin(zero) linegap(zero) drawbox(no) boxmargin(zero) fillcolor(bluishgray) linestyle( width(thin) color(black) pattern(solid)) box_alignment(east) editcopy
+.added_text[3].style.editstyle size(vlarge) editcopy
+.added_text[3].text = {}
+.added_text[3].text.Arrpush HELLO
+// editor text[3] edits
+
+
+// <end>

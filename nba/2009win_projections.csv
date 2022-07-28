@@ -1,0 +1,31 @@
+team,teamwins,city,fullname,nickname,rgb
+atl,36.278366,Atlanta,Atlanta Hawks,Hawks,225 68 52
+bos,51.000076,Boston,Boston Celtics,Celtics,0 122 51
+brk,33.876263,Brooklyn,Brooklyn Nets,Nets,0 0 0
+cha,36.856728,Charlotte,Charlotte Hornets,Hornets,29 17 96
+chi,42.628788,Chicago,Chicago Bulls,Bulls,206 17 65
+cle,58.409561,Cleveland,Cleveland Cavaliers,Cavaliers,111 38 61
+dal,53.922676,Dallas,Dallas Mavericks,Mavericks,0 83 188
+den,42.226135,Denver,Denver Nuggets,Nuggets,81 145 205
+det,37.724236,Detroit,Detroit Pistons,Pistons,0 107 182
+gsw,38.992085,Golden State,Golden State Warriors,Warriors,253 185 39
+hou,55.074097,Houston,Houston Rockets,Rockets,206 17 65
+ind,41.261707,Indiana,Indiana Pacers,Pacers,0 45 98
+lac,26.222971,L.A. Clippers,Los Angeles Clippers,Clippers,200 16 46
+lal,46.872368,L.A. Lakers,Los Angeles Lakers,Lakers,85 37 130
+mem,27.350521,Memphis,Memphis Grizzlies,Grizzlies,97 137 185
+mia,32.167751,Miami,Miami Heat,Heat,152 0 46
+mil,32.404125,Milwaukee,Milwaukee Bucks,Bucks,0 71 27
+min,37.323811,Minnesota,Minnesota Timberwolves,Timberwolves,12 35 64
+nor,46.973686,New Orleans,New Orleans Pelicans,Pelicans,0 22 65
+nyk,32.657608,New York,New York Knicks,Knicks,0 107 182
+okc,30.28228,Oklahoma City,Oklahoma City Thunder,Thunder,0 125 195
+orl,54.553585,Orlando,Orlando Magic,Magic,0 125 197
+phi,35.146614,Philadelphia,Philadelphia 76ers,76ers,0 107 182
+pho,47.364147,Phoenix,Phoenix Suns,Suns,229 95 32
+por,55.251789,Portland,Portland Trail Blazers,Trail Blazers,224 58 62
+sac,19.622839,Sacramento,Sacramento Kings,Kings,91 43 130
+sas,50.593529,San Antonio,San Antonio Spurs,Spurs,196 206 211
+tor,38.033344,Toronto,Toronto Raptors,Raptors,206 17 65
+uth,56.888741,Utah,Utah Jazz,Jazz,0 43 92
+was,32.039555,Washington,Washington Wizards,Wizards,0 43 92

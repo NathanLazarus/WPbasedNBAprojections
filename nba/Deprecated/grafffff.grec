@@ -1,0 +1,47 @@
+StataFileTM:00001:01100:GREC:                          :
+00004:00004:00001:
+*! classname: twowaygraph_g
+*! family: twoway
+*! date: 17 Oct 2018
+*! time: 22:30:35
+*! graph_scheme: uncluttered
+*! naturallywhite: 1
+*! end
+
+// File created by Graph Editor Recorder.
+// Edit only if you know what you are doing.
+
+.AddTextBox added_text editor .7703197828969426 48.76871414265857
+.added_text_new = 2
+.added_text_rec = 4
+.added_text[4].style.editstyle  angle(default) size(medsmall) color(black) horizontal(left) vertical(middle) margin(zero) linegap(zero) drawbox(no) boxmargin(zero) fillcolor(bluishgray) linestyle( width(thin) color(black) pattern(solid)) box_alignment(east) editcopy
+.added_text[4].text = {}
+.added_text[4].text.Arrpush Keep
+// editor text[4] edits
+
+.AddTextBox added_text editor .7703197828969426 102.2331178245283
+.added_text_new = 3
+.added_text_rec = 5
+.added_text[5].style.editstyle  angle(default) size(medsmall) color(black) horizontal(left) vertical(middle) margin(zero) linegap(zero) drawbox(no) boxmargin(zero) fillcolor(bluishgray) linestyle( width(thin) color(black) pattern(solid)) box_alignment(east) editcopy
+.added_text[5].text = {}
+.added_text[5].text.Arrpush On
+// editor text[5] edits
+
+.plotregion1.AddTextBox added_text editor 54.85597664054134 12.72808634191679
+.plotregion1.added_text_new = 1
+.plotregion1.added_text_rec = 1
+.plotregion1.added_text[1].style.editstyle  angle(default) size(medsmall) color(black) horizontal(left) vertical(middle) margin(zero) linegap(zero) drawbox(no) boxmargin(zero) fillcolor(bluishgray) linestyle( width(thin) color(black) pattern(solid)) box_alignment(east) editcopy
+.plotregion1.added_text[1].text = {}
+.plotregion1.added_text[1].text.Arrpush Keeping
+// editor text[1] edits
+
+.AddTextBox added_text editor 2.820073278687474 1.79519653079221
+.added_text_new = 4
+.added_text_rec = 6
+.added_text[6].style.editstyle  angle(default) size(medsmall) color(black) horizontal(left) vertical(middle) margin(zero) linegap(zero) drawbox(no) boxmargin(zero) fillcolor(bluishgray) linestyle( width(thin) color(black) pattern(solid)) box_alignment(east) editcopy
+.added_text[6].text = {}
+.added_text[6].text.Arrpush On
+// editor text[6] edits
+
+
+// <end>

@@ -1,0 +1,1 @@
+define(["jquery"],function(e){return{checkElement:function(e,n){var n=typeof n==="undefined"?0:n;var t=e.getBoundingClientRect().top;var r=e.getBoundingClientRect().bottom;var i=-n;var u=window.innerHeight+n;if(t>=i&&t<=u||r>=i&&r<=u){return true}else{return false}}}});
